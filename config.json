@@ -1,0 +1,8 @@
+{
+    "emoji_file": "emojis.json",
+    "discord_builtin_emojis_file": "discord_builtin_emojis.json",
+    "working_emoji_slots": 10,
+    "frequent_emoji_slots": 40,
+    "levenshtein_ratio_threshold": 0.6,
+    "bot_token": "YOUR_BOT_TOKEN_HERE"
+}
